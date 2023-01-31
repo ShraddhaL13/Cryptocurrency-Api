@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.ApiName {
+  background-color: black;
+  padding: 20px;
+  color: white;
+}
+
+.flex-container {
+  float: left;
+  width: 30%  ;
+  height: 50rem;
+  margin: 10px;
+  /* text-align: center; */
+  padding: 10px;
+}
+.card{
+ border: 1px solid red;
+ background-color: rgb(247, 241, 234);
+  border-radius: 20px;
+}
+.card-header{
+  background-color: red;
+}
+/* .img{
+  width:2000px;
+} */
